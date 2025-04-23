@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# House Price Regression
 
 This is a beginner-friendly machine learning project based on the House price prediction dataset from Kaggle.
 
